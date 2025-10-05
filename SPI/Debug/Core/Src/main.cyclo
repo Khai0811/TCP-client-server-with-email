@@ -1,0 +1,14 @@
+../Core/Src/main.c:187:6:writeCMDTFT	1
+../Core/Src/main.c:195:6:writeDataTFT	1
+../Core/Src/main.c:202:6:sendCMDList	3
+../Core/Src/main.c:221:6:setPos	1
+../Core/Src/main.c:238:6:drawPixel	3
+../Core/Src/main.c:251:6:fullDisplay	2
+../Core/Src/main.c:262:6:drawChar	4
+../Core/Src/main.c:277:6:drawString	2
+../Core/Src/main.c:284:6:initTFT	1
+../Core/Src/main.c:321:5:main	1
+../Core/Src/main.c:369:6:SystemClock_Config	3
+../Core/Src/main.c:408:13:MX_SPI1_Init	2
+../Core/Src/main.c:446:13:MX_GPIO_Init	1
+../Core/Src/main.c:480:6:Error_Handler	1

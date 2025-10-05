@@ -1,0 +1,14 @@
+../Core/Src/main.c:187:6:writeCMDTFT	16	static
+../Core/Src/main.c:195:6:writeDataTFT	16	static
+../Core/Src/main.c:202:6:sendCMDList	24	static
+../Core/Src/main.c:221:6:setPos	24	static
+../Core/Src/main.c:238:6:drawPixel	16	static
+../Core/Src/main.c:251:6:fullDisplay	24	static
+../Core/Src/main.c:262:6:drawChar	24	static
+../Core/Src/main.c:277:6:drawString	32	static
+../Core/Src/main.c:284:6:initTFT	8	static
+../Core/Src/main.c:321:5:main	24	static
+../Core/Src/main.c:369:6:SystemClock_Config	72	static
+../Core/Src/main.c:408:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:446:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:480:6:Error_Handler	4	static,ignoring_inline_asm
